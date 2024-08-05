@@ -1,0 +1,4 @@
+https://www.google.com
+https://andrades.com.br
+https://pudim.com.br
+https://httpbin.org/status/404
